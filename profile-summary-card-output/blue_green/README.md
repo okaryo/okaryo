@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/okaryo/okaryo/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)
-```
-
-    
